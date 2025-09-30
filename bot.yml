@@ -1,2 +1,0 @@
-- name: Run bot
-  run: python bot.py
